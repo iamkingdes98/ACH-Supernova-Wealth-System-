@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/iamkingdes98/ACH-Supernova-Wealth-System-
+git push -u origin main
